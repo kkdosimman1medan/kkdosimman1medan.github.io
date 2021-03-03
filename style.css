@@ -233,12 +233,12 @@
     margin-top: 3%;
     margin-left: 29%;
 }
-.profile tr td h1 a {
+.profile tr td h1{
     font-size: 20px;
     color: white;
     font-family: sans-serif;
     text-align: center;
-    margin-left: 16%;
+    margin-left: auto;
     margin-bottom: auto;
     margin-top: 3%;
     font-weight: bold;
